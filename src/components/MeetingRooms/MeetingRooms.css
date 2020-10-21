@@ -1,0 +1,10 @@
+.meeting-room-wrapper {
+    margin-top:10px;
+    line-height: 25px;
+    border: 1px dashed;
+    padding:10px;
+}
+.meeting-info {
+    display: flex;
+    justify-content: space-evenly;
+}
